@@ -1,4 +1,4 @@
-# odev7
+# Todo App
 
 A new Flutter project.
 
